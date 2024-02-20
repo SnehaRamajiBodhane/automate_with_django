@@ -1,5 +1,5 @@
 from django.core.management.base import BaseCommand, CommandError
-from dataentry.models import Student
+# from dataentry.models import Student
 from django.apps import apps
 import csv
 
